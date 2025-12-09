@@ -1,0 +1,5 @@
+{
+  "name": "Bug Buster",
+  "description": "A cyberpunk-themed automated code debugger that uses Gemini to analyze errors, fix code, and visualize changes with a built-in diff viewer.",
+  "requestFramePermissions": []
+}
